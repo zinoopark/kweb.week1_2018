@@ -1,0 +1,16 @@
+{
+  "name": "kweb",
+  "version": "1.0.0",
+  "description": "KWEB준스 1주차 실습",
+  "main": "index.js",
+  "author": "박진우",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  },
+
+"scripts":{
+	"start":"node index.js",
+	"start:dev":"nodemon index.js"
+		}
+}
